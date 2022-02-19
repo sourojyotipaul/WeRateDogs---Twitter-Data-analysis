@@ -5,6 +5,7 @@
 ## Data Wrangling and the Exploratory Data Analysis in the WeRateDogs™
 
 <br>
+
 *This report is a resume of the Wrangle and Analyze Data Project from the Udacity Data Science
 Nanodegree, and aims to shows the insights observed in the wrangle_act.ipynb.One of the funniest parts
 of the WeRateDogs tweets is about the humor content in almost all tweets and the very non-standard
